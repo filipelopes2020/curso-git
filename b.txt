@@ -1,2 +1,11 @@
 Testando atualização do
+<<<<<<< HEAD
 a
+=======
+a
+
+tsas
+asdass
+ 
+ Funcionalidade A
+>>>>>>> 932a665 (cenas)

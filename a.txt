@@ -1,13 +1,21 @@
+<<<<<<< HEAD
 Testando
+=======
+gitTestando
+>>>>>>> 932a665 (cenas)
 Uma
 Atualização
 de Arquivo
 2
 Diff
 de
+<<<<<<< HEAD
 Arquivo
 as
 dasd
 as
 asdas
 d
+=======
+Arquivo
+>>>>>>> 932a665 (cenas)

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 testando o: git stash
+=======
+testando o: git stashg
+>>>>>>> 932a665 (cenas)

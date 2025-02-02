@@ -1,4 +1,11 @@
 Olá Mundo
 Teste
 de
+<<<<<<< HEAD
 Diff
+=======
+Diff
+
+AAAAAAAAAAAAAAAa
+
+>>>>>>> 932a665 (cenas)
